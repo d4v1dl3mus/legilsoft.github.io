@@ -168,16 +168,17 @@ section {
 	transition: all 0.2s ease-in-out;
 }
 .navbar-default .navbar-brand {
-	background-image: url(../img/logo.png);
+	background-image: url(../img/legil/manual-de-imagen---copia.png);
+	background-size: 210px 65px;
 }
 .navbar-shrink .navbar-brand {
-	background-image: url(../img/logo.png);
+	background-image: url(../img/legil/manual-de-imagen---copia.png);
 }
 .navbar-transparent .navbar-brand {
-	background-image: url(../img/logo.png);
+	background-image: url(../img/legil/manual-de-imagen---copia.png);
 }
 .navbar-inverse .navbar-brand {
-	background-image: url(../img/logo.png);
+	background-image: url(../img/legil/manual-de-imagen---copia.png);
 }
 
 /* Navbar links */
